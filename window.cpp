@@ -1,8 +1,5 @@
 
 #include "window.h"
-
-#ifndef QT_NO_SYSTEMTRAYICON
-
 #include <QAction>
 #include <QCheckBox>
 #include <QComboBox>
@@ -227,5 +224,3 @@ void Window::createTrayIcon()
     trayIcon = new QSystemTrayIcon(this);
     trayIcon->setContextMenu(trayIconMenu);
 }
-
-#endif
