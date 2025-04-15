@@ -23,6 +23,8 @@ target_link_libraries(android-pair PRIVATE
 
 # Resources:
 set(android-pair_resource_files
+    "images/android-white.png"
+    "images/android-black.png"
     "images/bad.png"
     "images/heart.png"
     "images/trash.png"

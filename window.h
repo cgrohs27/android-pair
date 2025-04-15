@@ -18,7 +18,6 @@ class QSpinBox;
 class QTextEdit;
 QT_END_NAMESPACE
 
-//! [0]
 class Window : public QDialog
 {
     Q_OBJECT

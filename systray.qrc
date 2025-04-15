@@ -1,5 +1,7 @@
 <!DOCTYPE RCC><RCC version="1.0">
 <qresource prefix="/">
+   <file>images/android-white.png</file>
+   <file>images/android-black.png</file>
    <file>images/bad.png</file>
    <file>images/heart.png</file>
    <file>images/trash.png</file>
